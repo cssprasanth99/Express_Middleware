@@ -1,0 +1,17 @@
+{
+  "name": "express_middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "validation_middleware.js",
+  "scripts": {
+    "dev": "nodemon validation_middleware.js",
+    "start": "nodemon express_middleware.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.1"
+  }
+}
